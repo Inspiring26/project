@@ -1,3 +1,6 @@
 [submodule "module"]
 	path = module
 	url = git@github.com:Inspiring26/module.git
+[submodule "theme/module"]
+	path = theme/module
+	url = git@github.com:Inspiring26/module.git
